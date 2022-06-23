@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**darrius-brown/darrius-brown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+- I'm a software engineer that excels in communication and is able to adapt well in the team environment. Reliable team player and problem solver. I strive to learn new things everyday and using a growth mindset pushes me to further develop myself.
 
 - 🔭 I’m currently working on my capstone project!
 - 🌱 I’m currently learning Python and Django
