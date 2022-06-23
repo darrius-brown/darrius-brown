@@ -7,3 +7,6 @@ I'm a software engineer that excels in communication and is able to adapt well i
 - 📫 How to reach me: darriusabrown@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I love solving all puzzles and I enjoy playing music!
+
+Feel free to check out my linkedin here!
+- https://www.linkedin.com/in/darriusabrown/
