@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software engineer that excels in communication and is able to adapt well in the team environment. Reliable team player and problem solver. I strive to learn new things everyday and using a growth mindset pushes me to further develop myself.
+I am a self-motivated back end developer with solid communication, a passion to create high quality code, and the ability to adapt well in a team environment. Being a former Team Leader in the restaurant business taught me the value of collaboration and communication. I strive and am excited to learn new things everyday and using a growth mindset pushes me to further develop myself.  I enjoy solving complex problems and providing solutions for the people around me so I can help others in need.
 
 - 🔭 I’m currently working on my capstone project!
 - 🌱 I’m currently learning Python and Django
