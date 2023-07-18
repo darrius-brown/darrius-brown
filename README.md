@@ -5,7 +5,6 @@ I am a self-motivated Full Stack Developer with solid communication, a passion t
 - 🌱 I’m currently learning Python and Django
 - 💬 Ask me about any of my projects!
 - 📫 How to reach me: darriusabrown@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun facts: I love solving all puzzles and I enjoy playing music!
 
 Feel free to check out my linkedin here!
